@@ -1,0 +1,54 @@
+{
+    "name": "MTV Sharks #1",
+    "description": "We are building the future together.",
+    "image": "https://ipfs.infura.io/ipfs/QmWHBp5ogVWWugkCpBqLT8MygNr9ZJCXJfQi4oYWMqRR3W/1.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Shipwreck "
+        },
+        {
+            "trait_type": "Color",
+            "value": "Blueberry "
+        },
+        {
+            "trait_type": "Spots",
+            "value": "Spotted "
+        },
+        {
+            "trait_type": "Base",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned "
+        },
+        {
+            "trait_type": "Eyebrow",
+            "value": "Normal "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Up Tooth "
+        },
+        {
+            "trait_type": "Nose Area",
+            "value": "Friendly Octopus "
+        },
+        {
+            "trait_type": "Head",
+            "value": "Flower Hat "
+        },
+        {
+            "trait_type": "Wrist",
+            "value": "MultiBot Treasure Chest "
+        }
+    ],
+    "custom_fields": {
+        "dna": "9d8934f3dbbe85abcb5caf576c3489814b93fabd",
+        "edition": 1,
+        "date": 1646035028739,
+        "compiler": "HashLips Art Engine"
+    },
+    "external_url": "https://www.MTVsharks.art"
+}
